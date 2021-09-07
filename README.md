@@ -1,4 +1,4 @@
-# requiremens
+#web-developer-test
 
 To run this project locally, you will need
 1) a way to run a php website locally (e.g. wamp)
