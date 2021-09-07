@@ -1,10 +1,10 @@
-#web-developer-test
+# web-developer-test
 
-To run this project locally, you will need
+### To run this project locally, you will need
 1) a way to run a php website locally (e.g. wamp)
 2) mySQL server
 
-Instructions:
+### Instructions:
 
 1) Set up connection database and schema. Inside web-developer-test-app/app/classes/dbh.class.php there is connection information that needs to be changed to fit your server.
 Variable $host needs to be changed to your host name, $user needs to be changed to your username, $pwd needs to be changed to your password and $db needs to be changed database(schema) name you will be using for running this website.
