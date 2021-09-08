@@ -1,5 +1,5 @@
 <?php
-class EmailView extends EmailModel {
+class emailview extends emailmodel {
     public function showUsers($name) {
         $results = $this->getUser($name);
         echo $results['email_address'];
