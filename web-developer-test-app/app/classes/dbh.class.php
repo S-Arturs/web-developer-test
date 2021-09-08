@@ -1,6 +1,6 @@
 <?php
 //connecting to database
-class dbh {
+class Dbh {
     private $host = "localhost";
     private $user = "root";
     private $pwd = "";
