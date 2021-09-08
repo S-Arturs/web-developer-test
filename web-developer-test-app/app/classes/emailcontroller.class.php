@@ -1,5 +1,5 @@
 <?php
-class EmailController extends EmailModel {
+class emailcontroller extends emailmodel {
     public function addUsers($email, $checked) {
         $this->setUsers($email, $checked);
     }
