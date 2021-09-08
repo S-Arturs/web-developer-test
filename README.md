@@ -17,4 +17,5 @@ Run sql queries from these files in your database and a table with appropriate s
 
 3) Run this website locally, if you have wamp, you can copy 'web-developer-test-app' folder into 'wampfolder'/www and it should be accessible by typing 'localhost'/web-developer-test-app/public/ into web browser. To access page with submitted emails, go to /web-developer-test-app/public/emails-table.php.
 
+Depending on your configuration, you may need to rename all classes to lowercase for autoloader to actually work.
 
